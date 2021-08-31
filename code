@@ -1,8 +1,0 @@
-CODE IN C FOR PRINTING HELLO WORLD.
-
-#include <stdio.h>
-int main()
-{
-  printf("Hello World");
-  return 0;
-}
