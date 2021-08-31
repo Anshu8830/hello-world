@@ -1,7 +1,6 @@
 CODE IN C FOR PRINTING HELLO WORLD.
 
 #include <stdio.h>
-using namespace std;
 int main()
 {
   printf("Hello World");
