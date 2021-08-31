@@ -1,0 +1,8 @@
+CODE IN C++ FOR PRINTING HELLO WORLD.
+
+#include <iostream>
+using namespace std;
+int main()
+{
+  cout<<"Hello World";
+}
